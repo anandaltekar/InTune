@@ -8,4 +8,4 @@ Let's users request songs at any participating venue. Matches users based on sim
 
 ## Disclaimer
 
-I have not maintained the codebase since 2015. You are free to use it for any purpose. 
+I have not maintained the codebase since 2015. Anyone is free to use it for any purpose. 
