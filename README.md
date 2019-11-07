@@ -1,6 +1,6 @@
 # inTune
 
-iOS app to request songs at popular hangout
+iOS app to request songs at participating venues.
 
 ## Description
 
